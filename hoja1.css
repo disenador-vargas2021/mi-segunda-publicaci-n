@@ -1,0 +1,21 @@
+/* hoja1.css*/
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: green;
+}
+h2 {
+	
+	color: blue;
+	text-shadow: 3px 2px 7px blue;
+}
+p {
+	
+	color: purple;
+	
+}
+div {		
+	color: black;
+	font-family: "italic";
+	font-style: oblique;
+	
